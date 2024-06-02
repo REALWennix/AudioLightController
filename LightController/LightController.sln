@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightController", "LightController.csproj", "{175E2F01-5868-45C1-B950-97BA4E8D8CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioAnalyzer", "..\AudioAnalyzer\AudioAnalyzer.csproj", "{4D972373-DCE4-4389-B756-9A4631FB5DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175E2F01-5868-45C1-B950-97BA4E8D8CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175E2F01-5868-45C1-B950-97BA4E8D8CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175E2F01-5868-45C1-B950-97BA4E8D8CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175E2F01-5868-45C1-B950-97BA4E8D8CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D972373-DCE4-4389-B756-9A4631FB5DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D972373-DCE4-4389-B756-9A4631FB5DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D972373-DCE4-4389-B756-9A4631FB5DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D972373-DCE4-4389-B756-9A4631FB5DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B8AB474-E138-4D45-898D-F3B9AC2112EE}
+	EndGlobalSection
+EndGlobal
